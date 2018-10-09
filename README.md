@@ -1,4 +1,4 @@
 # hyx-vue-ts-music
-try to creat a new project and commit a start project with vue & ts
+try to create a new project and commit a start project with vue & ts
 
 Hello Github!
